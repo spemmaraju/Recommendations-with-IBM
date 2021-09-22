@@ -14,7 +14,7 @@ When recommending articles for users, the most naive way to do it would be to ju
         ├── .ipynb_checkpoints                      # Checkpoints for the jupyter notebook files
         ├── data                                    # Contains the article details and user-article interaction datasets 
         ├── Recommendations_with_IBM.ipynb          # Jupyter Notebook for the project exploring recommendation strategies
-		├── Recommendations_with_IBM.html           # HTML file of the Jupyter Notebook
+	├── Recommendations_with_IBM.html           # HTML file of the Jupyter Notebook
         └── README.md                               # File to store details about the project
 
 ## Libraries used:
